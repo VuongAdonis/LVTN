@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+Cmake
+face_recognition
