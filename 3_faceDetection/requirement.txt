@@ -1,4 +1,6 @@
 opencv-python
 mediapipe
 Cmake
-face_recognition
+dlib
+face_recognition==1.2.3
+numpy==1.26.3
